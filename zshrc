@@ -106,6 +106,7 @@ alias gs="git status"
 alias git-clean-merged='git branch --merged | egrep -v "(^\*|master|dev)" | xargs git branch -d'
 alias git-purge-old-10-branch='git branch --sort=-committerdate | tail -n 10 | xargs git branch -D'
 alias f="fzf --preview 'pygmentize {}'"
+alias ll="ls -la"
 #alias python='python3'
 
 
