@@ -1,6 +1,5 @@
 [user]
-	name = Martin Morissette
-	email = martin.morissette@shopify.com
+	name = Francois Campeau
 [core]
 	excludesfile = ~/.gitignore_global
 	editor = vim
@@ -18,4 +17,4 @@
 [fetch]
 	prune = true
 [include]
-	path = /Users/martinmorissette/.config/dev/gitconfig
+	path = /Users/francoiscampeau/.config/dev/gitconfig
